@@ -1,0 +1,7 @@
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\bin\Debug\aMuleCtrl.exe.config
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\bin\Debug\aMuleCtrl.exe
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\bin\Debug\aMuleCtrl.pdb
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\bin\Debug\System.Data.SQLite.dll
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\obj\Debug\aMuleCtrl.exe
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\obj\Debug\aMuleCtrl.pdb
+D:\App\CSharp\aMuleCtrl\aMuleCtrl\obj\Debug\aMuleCtrl.csprojResolveAssemblyReference.cache

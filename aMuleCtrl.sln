@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aMuleCtrl", "aMuleCtrl\aMuleCtrl.csproj", "{ACCDF9FF-7860-4387-800E-56DB3EDE399E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordStatistics", "WordStatistics\WordStatistics.csproj", "{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACCDF9FF-7860-4387-800E-56DB3EDE399E}.Release|x64.ActiveCfg = Release|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC4244F3-B3C0-443A-A6F3-1508396E2B5A}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

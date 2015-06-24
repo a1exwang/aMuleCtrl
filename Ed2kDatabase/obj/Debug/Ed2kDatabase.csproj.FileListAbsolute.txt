@@ -1,0 +1,15 @@
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\Ed2kDatabase.exe.config
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\Ed2kDatabase.exe
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\Ed2kDatabase.pdb
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\SQLite.Designer.dll
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.dll
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.EF6.dll
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\SQLite.Designer.pdb
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\SQLite.Designer.xml
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.pdb
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.xml
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\bin\Debug\System.Data.SQLite.EF6.xml
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\obj\Debug\Ed2kDatabase.csprojResolveAssemblyReference.cache
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\obj\Debug\Ed2kDatabase.exe
+D:\App\CSharp\aMuleCtrl\Ed2kDatabase\obj\Debug\Ed2kDatabase.pdb

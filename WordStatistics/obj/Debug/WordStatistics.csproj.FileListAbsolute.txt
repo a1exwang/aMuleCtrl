@@ -1,0 +1,6 @@
+D:\App\CSharp\aMuleCtrl\WordStatistics\bin\Debug\WordStatistics.exe.config
+D:\App\CSharp\aMuleCtrl\WordStatistics\bin\Debug\WordStatistics.exe
+D:\App\CSharp\aMuleCtrl\WordStatistics\bin\Debug\WordStatistics.pdb
+D:\App\CSharp\aMuleCtrl\WordStatistics\obj\Debug\WordStatistics.csprojResolveAssemblyReference.cache
+D:\App\CSharp\aMuleCtrl\WordStatistics\obj\Debug\WordStatistics.exe
+D:\App\CSharp\aMuleCtrl\WordStatistics\obj\Debug\WordStatistics.pdb
